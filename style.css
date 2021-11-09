@@ -1,0 +1,33 @@
+body{
+background-size: cover;
+}
+
+.heading{
+font-size:20px;
+width:100%;
+border-width: 5px;
+border-color: red;
+box-shadow: 5px 5px 5px blue;
+margin-top: 0px;
+} 
+#start,#number_of_objects,#status{
+    font-size:20px;
+    border-width: 5px;
+    border-color: blue;
+    box-shadow: 5px 5px 5px blue;
+}
+.footer_div{
+    width:100%;
+    position: fixed;
+    bottom:0;
+    color:black;
+    text-align: left;
+}
+canvas{
+    border-width: 5px;
+    border-color: blue;
+    border-radius: 60px;
+    border-style:dotted;
+    box-shadow: 5px 5px 5px red;
+    margin-top: 110px;
+}
